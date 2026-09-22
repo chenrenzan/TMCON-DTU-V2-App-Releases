@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "com.tmcon.dtu.v2",
+  "versionName": "2.0.1",
+  "versionCode": 20101,
+  "publishedAt": "2026-09-22T02:25:21Z",
+  "releaseNotes": {
+    "zh": "新增关于页面、公司信息、当前版本显示和 GitHub/Gitee 双镜像更新检查。",
+    "en": "Adds the About page, company information, current version display, and GitHub/Gitee update mirrors."
+  },
+  "downloads": {
+    "github": {
+      "url": "https://github.com/chenrenzan/TMCON-DTU-V2-App-Releases/releases/download/app-v2.0.1/TMCON-DTU-V2-v2.0.1-release.apk",
+      "sha256": "9fcdcb7eb90ad2cadb0bc2e2505ad1f37ed02ffdebfb2dd04e04fb2e34985e25"
+    },
+    "gitee": {
+      "url": "https://gitee.com/tmcon_0/TMCON-DTU-V2-App-Releases/releases/download/app-v2.0.1/TMCON-DTU-V2-v2.0.1-release.apk",
+      "sha256": "9fcdcb7eb90ad2cadb0bc2e2505ad1f37ed02ffdebfb2dd04e04fb2e34985e25"
+    }
+  }
+}
