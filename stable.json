@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.tmcon.dtu.v2",
-  "versionName": "2.0.1",
-  "versionCode": 20101,
-  "publishedAt": "2026-09-22T02:25:21Z",
+  "versionName": "2.0.2",
+  "versionCode": 20102,
+  "publishedAt": "2026-09-27T06:12:25Z",
   "releaseNotes": {
-    "zh": "新增关于页面、公司信息、当前版本显示和 GitHub/Gitee 双镜像更新检查。",
-    "en": "Adds the About page, company information, current version display, and GitHub/Gitee update mirrors."
+    "zh": "修复浅色背景下状态栏内容看不清的问题，移除首页重复标题栏并优化页面布局。",
+    "en": "Fixes status bar contrast on light backgrounds, removes the duplicate home header, and improves the home layout."
   },
   "downloads": {
     "github": {
-      "url": "https://github.com/chenrenzan/TMCON-DTU-V2-App-Releases/releases/download/app-v2.0.1/TMCON-DTU-V2-v2.0.1-release.apk",
-      "sha256": "9fcdcb7eb90ad2cadb0bc2e2505ad1f37ed02ffdebfb2dd04e04fb2e34985e25"
+      "url": "https://github.com/chenrenzan/TMCON-DTU-V2-App-Releases/releases/download/app-v2.0.2/TMCON-DTU-V2-v2.0.2-release.apk",
+      "sha256": "fea79811dd4988fe2829e1d515fa064ec8dbba12cf170781e3b38b2e4ae9b78b"
     },
     "gitee": {
-      "url": "https://gitee.com/tmcon_0/TMCON-DTU-V2-App-Releases/releases/download/app-v2.0.1/TMCON-DTU-V2-v2.0.1-release.apk",
-      "sha256": "9fcdcb7eb90ad2cadb0bc2e2505ad1f37ed02ffdebfb2dd04e04fb2e34985e25"
+      "url": "https://gitee.com/tmcon_0/TMCON-DTU-V2-App-Releases/releases/download/app-v2.0.2/TMCON-DTU-V2-v2.0.2-release.apk",
+      "sha256": "fea79811dd4988fe2829e1d515fa064ec8dbba12cf170781e3b38b2e4ae9b78b"
     }
   }
 }
